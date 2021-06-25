@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to bottom left, darkcyan, aqua);
+}
+.di1{
+    width: 50%;
+}
+.di2{
+    width: 50%;
+}
+#Archimedes{
+    height: 500px;
+    width: 300px;
+}
+.sp{
+    margin: 20px;
+}

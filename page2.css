@@ -1,0 +1,52 @@
+#phone{
+    background-image: url("bottle.png");
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: contain;
+    background-color:aquamarine;
+    background-repeat: no-repeat;
+}
+#straw{
+    background-image: url("paper.png");
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: contain;
+    background-color:aquamarine;
+    background-repeat: no-repeat;
+}
+#rock{
+    background-image: url("apple.png");
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: contain;
+    background-color:aquamarine;
+    background-repeat: no-repeat;
+}
+#book{
+    background-image: url("dumbell\ weight.png");
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: contain;
+    background-color:aquamarine;
+    background-repeat: no-repeat;
+}
+.options1{
+    margin-left: 40px;
+    margin-right:40px;
+}
+#question{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+body{
+    text-align:center;
+    background-color:cadetblue;
+}
